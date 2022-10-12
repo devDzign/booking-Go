@@ -4,7 +4,7 @@ Install the latest docker version Go
 # 1. Server set-up
 Set up and clone project.
 
-    git clone https://github.com/devDzign/myprog.git
+    git clone https://github.com/devDzign/booking-Go.git
 
 # 2. Project / Application set-up
     go run cmd/web/*.go
